@@ -1,8 +1,15 @@
+
+<!DOCTYPE html>
 <html>
 <head> 
 <title> I am an HTML Application </title>
 </head>
+
 <body>
-<h2> My Name is Inigo Montoya</h2>
+
+<?php
+    echo "My Name is Inigo Montoya"
+?>
+
 </body>
 </html>
