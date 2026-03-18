@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head> 
-<title> I am an PHP Application </title>
+<title> I am a PHP Application </title>
 </head>
 
 <body>
